@@ -1,5 +1,3 @@
-install 
-
 ## What to solve?
 
 NACOS is a great framework for service discovery. But the vanilla sdk
