@@ -5,6 +5,10 @@ install
 NACOS is a great framework for service discovery. But the vanilla sdk
 lacks logic to self-register python service.
 
+This package seeks to simplify the setup of a NACOS-compatible python service
+
+## Install 
+
 ```
 python3 -m pip install https://github.com/shouldsee/nacos_pyext/tarball/master
 ```
